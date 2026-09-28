@@ -3,6 +3,8 @@
 > 桌面自动化 MCP [Ghost](https://github.com/NORTHTEKDevs/ghost) 的安装配置指南与踩坑记录。
 > 基于 **Windows 11 + Ghost 0.23.4** 的完整实测整理。
 > **这是社区笔记，不是官方文档。**
+>
+> [English version / 英文版](README.en.md)
 
 ---
 

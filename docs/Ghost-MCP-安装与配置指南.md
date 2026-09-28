@@ -3,6 +3,8 @@
 > 基于版本 **0.23.4**（Windows）的一次完整实测整理。
 > 重点在**参数配置**与**踩坑**，尤其是最容易劝退新人的那个问题——
 > **「Ghost 为什么抢我的鼠标和键盘？」**
+>
+> [English version](Ghost-MCP-Install-and-Config-Guide.md)
 
 ---
 
