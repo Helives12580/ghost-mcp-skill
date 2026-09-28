@@ -1,4 +1,4 @@
-# Ghost MCP 实战笔记
+# Ghost MCP 实战笔记与总结下来的skill
 
 > 桌面自动化 MCP [Ghost](https://github.com/NORTHTEKDevs/ghost) 的安装配置指南与踩坑记录。
 > 基于 **Windows 11 + Ghost 0.23.4** 的完整实测整理。
